@@ -1,5 +1,6 @@
 int add(int a, int b)
 {
+        printf("test code");
         return a + b;
 }
 

@@ -7,6 +7,8 @@ int main()
         int a;
         int b;
 
+        printf("test code");
+        
         while(1)
         {
 
