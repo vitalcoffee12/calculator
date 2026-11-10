@@ -7,6 +7,8 @@ int main()
         int a;
         int b;
 
+        printf("CALCULATOR PROGRAM \n");
+
         while(1)
         {
 
