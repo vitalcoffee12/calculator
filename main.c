@@ -42,7 +42,7 @@ int main()
                                 return 0;
                                 break;
                         default :
-                                printf("unknown command\n\n");
+                                printf("Invalid command. Please try again.\n");
                                 break;
 
                 }
