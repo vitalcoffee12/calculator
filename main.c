@@ -7,6 +7,8 @@ int main()
         int a;
         int b;
 
+        printf("OSS Assignment 3: Calculator Program (202430358) \n");
+
         while(1)
         {
 
