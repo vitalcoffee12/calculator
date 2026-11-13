@@ -6,7 +6,7 @@ int main()
         char c;
         int a;
         int b;
-	int c;
+	printf("202513479 윤세영\n");
         while(1)
         {
 
