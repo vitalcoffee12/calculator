@@ -12,7 +12,7 @@ int main()
 
                 printf("which command do you want to proceed?\n");
                 printf("ADD (a)         SUB (s)         DIV (d)         MUL (m) | QUIT (q) \n >> ");
-                scanf("%c", &c);
+                scanf(" %c", &c);
 
                 switch(c)
                 {
@@ -30,7 +30,10 @@ int main()
                         case 'd':
                                 printf("insert two operand: ");
                                 scanf("%d %d", &a, &b);
-                                printf("the answer is : %d\n\n", div(a,b));
+                                if (b == 0) 
+                                        printf("cannot divide by zero\n\n");
+                                else 
+                                        printf("the answer is : %d\n\n", div(a, b));
                                 break;
                         case 'm':
                                 printf("insert two operand: ");
@@ -39,6 +42,7 @@ int main()
                                 break;
 
                         case 'q':
+                                printf("bye\n");
                                 return 0;
                                 break;
                         default :
