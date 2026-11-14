@@ -7,6 +7,7 @@ int main()
         int a;
         int b;
 
+        printf("Simple Calculator (202430393)\n");
         while(1)
         {
 
