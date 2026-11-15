@@ -6,6 +6,7 @@ int main()
         char c;
         int a;
         int b;
+        printf("Good afternoon! I'm eunwoo\n");   
 
         while(1)
         {
