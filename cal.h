@@ -10,6 +10,7 @@ int sub(int a, int b)
 
 int mul(int a, int time)
 {
+        printf("Multiplication selected.\n");
         return a * time;
 }
 
