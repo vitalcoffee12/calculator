@@ -22,4 +22,5 @@ int mod(int a, int time)
 {
         return a % time;
 }
+#define OSS_CAL_HEADER_MODIFIED 1
 

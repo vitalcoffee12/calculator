@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include "cal.h"
+#define OSS_MAIN_MODIFIED 1
 
 int main()
 {
