@@ -3,6 +3,7 @@
 
 int main()
 {
+	printf("Seonwoo's Git")
         char c;
         int a;
         int b;
