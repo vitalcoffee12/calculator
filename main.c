@@ -47,6 +47,6 @@ int main()
 
                 }
         }
-
+        printf("안녕하세요, 저는 옌비입니다\n");
         return 0;
 }

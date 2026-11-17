@@ -22,4 +22,5 @@ int mod(int a, int time)
 {
         return a % time;
 }
+#팜 티 옌 비
 
