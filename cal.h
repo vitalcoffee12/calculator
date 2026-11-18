@@ -22,4 +22,4 @@ int mod(int a, int time)
 {
         return a % time;
 }
-
+int square(int a) { return a * a; }
