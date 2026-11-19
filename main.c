@@ -10,6 +10,7 @@ int main()
         while(1)
         {
 
+                printf("This repository was forked for Assignment 26-2.\nTherefore, this repository will be deleted before 26.12.31\n");
                 printf("which command do you want to proceed?\n");
                 printf("ADD (a)         SUB (s)         DIV (d)         MUL (m) | QUIT (q) \n >> ");
                 scanf("%c", &c);
