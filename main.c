@@ -3,6 +3,7 @@
 
 int main()
 {
+        printf("202313230 박제이 Hello!\n");
         char c;
         int a;
         int b;
