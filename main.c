@@ -6,7 +6,7 @@ int main()
         char c;
         int a;
         int b;
-
+        printf("HELLO\n");
         while(1)
         {
 
