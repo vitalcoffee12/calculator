@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include "cal.h"
 
+// This program is calculator 
 int main()
 {
         char c;
