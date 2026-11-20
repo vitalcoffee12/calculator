@@ -6,7 +6,7 @@ int main()
         char c;
         int a;
         int b;
-
+        printf("202512805 박승운 calculator\n");
         while(1)
         {
 
