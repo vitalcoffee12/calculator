@@ -23,3 +23,4 @@ int mod(int a, int time)
         return a % time;
 }
 
+// 202313430 임서준 - OSS 과제
