@@ -15,7 +15,7 @@ int mul(int a, int time)
 
 int div(int a, int time)
 {
-        return a / time;
+        return time == 0 ? 0 : a / time; // prevent division by zero crash
 }
 
 int mod(int a, int time)
