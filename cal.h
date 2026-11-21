@@ -23,3 +23,4 @@ int mod(int a, int time)
         return a % time;
 }
 
+int y;
