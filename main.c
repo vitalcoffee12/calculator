@@ -3,6 +3,7 @@
 
 int main()
 {
+        printf("OSS 202413124 김이레\n");
         char c;
         int a;
         int b;
