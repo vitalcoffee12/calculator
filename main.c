@@ -3,6 +3,7 @@
 
 int main()
 {
+        printf("OSS Calculator Start\n");
         char c;
         int a;
         int b;
