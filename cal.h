@@ -23,3 +23,6 @@ int mod(int a, int time)
         return a % time;
 }
 
+int sq(int a){
+        return a * a;
+}
