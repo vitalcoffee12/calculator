@@ -15,6 +15,7 @@ int mul(int a, int time)
 
 int div(int a, int time)
 {
+        if (time == 0) return 0;
         return a / time;
 }
 
