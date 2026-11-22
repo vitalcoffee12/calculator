@@ -7,6 +7,8 @@ int main()
         int a;
         int b;
 
+        printf("Hello, OSS! - 202313280\n");
+
         while(1)
         {
 
