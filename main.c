@@ -2,7 +2,8 @@
 #include "cal.h"
 
 int main()
-{
+{       
+        int calc_count=0;
         char c;
         int a;
         int b;
