@@ -18,7 +18,7 @@ int div(int a, int time)
         return a / time;
 }
 
-int mod(int a, int time)
+int rem(int a, int time)
 {
         return a % time;
 }

@@ -11,6 +11,7 @@ int main()
         {
 
                 printf("which command do you want to proceed?\n");
+                printf("Choose one\n");
                 printf("ADD (a)         SUB (s)         DIV (d)         MUL (m) | QUIT (q) \n >> ");
                 scanf("%c", &c);
 
@@ -32,6 +33,7 @@ int main()
                                 scanf("%d %d", &a, &b);
                                 printf("the answer is : %d\n\n", div(a,b));
                                 break;
+                       
                         case 'm':
                                 printf("insert two operand: ");
                                 scanf("%d %d", &a, &b);
