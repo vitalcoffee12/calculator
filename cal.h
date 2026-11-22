@@ -1,3 +1,5 @@
+//안녕하세요.
+
 int add(int a, int b)
 {
         return a + b;

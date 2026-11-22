@@ -7,6 +7,8 @@ int main()
         int a;
         int b;
 
+        printf("Hello World!"\n);
+        
         while(1)
         {
 
