@@ -1,3 +1,4 @@
+// Modified by 김동하
 #include <stdio.h>
 #include "cal.h"
 
@@ -7,6 +8,8 @@ int main()
         int a;
         int b;
 
+        printf("OSS assignment modification\n");
+        
         while(1)
         {
 
