@@ -11,8 +11,8 @@ int main()
         {
 
                 printf("which command do you want to proceed?\n");
-                printf("Chose one\n");
-                printf("ADD (a)         SUB (s)         DIV (d)        REM(r)         MUL (m) | QUIT (q) \n >> ");
+                printf("Choose one\n");
+                printf("ADD (a)         SUB (s)         DIV (d)         MUL (m) | QUIT (q) \n >> ");
                 scanf("%c", &c);
 
                 switch(c)
@@ -33,11 +33,7 @@ int main()
                                 scanf("%d %d", &a, &b);
                                 printf("the answer is : %d\n\n", div(a,b));
                                 break;
-                        case 'r':
-                                printf("insert two operand: ");
-                                scanf("%d %d", &a, &b);
-                                printf("the answer is : %d\n\n", rem(a,b));
-                                break;
+                       
                         case 'm':
                                 printf("insert two operand: ");
                                 scanf("%d %d", &a, &b);
