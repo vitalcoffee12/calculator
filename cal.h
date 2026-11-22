@@ -1,3 +1,4 @@
+int mod(int a, int time);
 int add(int a, int b)
 {
         return a + b;
