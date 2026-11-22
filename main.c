@@ -6,7 +6,7 @@ int main()
         char c;
         int a;
         int b;
-
+        printf("202313453 정규진\n");
         while(1)
         {
 
