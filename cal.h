@@ -1,25 +1,27 @@
+
+#define OSS_ASSIGNMENT_3 3
+
 int add(int a, int b)
 {
-        return a + b;
+    return a + b;
 }
 
 int sub(int a, int b)
 {
-        return add(a, -1 * b);
+    return add(a, -1 * b);
 }
 
 int mul(int a, int time)
 {
-        return a * time;
+    return a * time;
 }
 
 int div(int a, int time)
 {
-        return a / time;
+    return a / time;
 }
 
 int mod(int a, int time)
 {
-        return a % time;
+    return a % time;
 }
-
