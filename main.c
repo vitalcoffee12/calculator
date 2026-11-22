@@ -7,6 +7,7 @@ int main()
         int a;
         int b;
 
+        printf("Calculator");
         while(1)
         {
 
