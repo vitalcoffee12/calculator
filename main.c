@@ -9,6 +9,7 @@ int main()
 
         while(1)
         {
+                printf("202512933 윤수호\n")
 
                 printf("which command do you want to proceed?\n");
                 printf("ADD (a)         SUB (s)         DIV (d)         MUL (m) | QUIT (q) \n >> ");
