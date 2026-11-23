@@ -42,7 +42,7 @@ int main()
                                 return 0;
                                 break;
                         default :
-                                printf("unknown command\n\n");
+                                printf("unknown command (202430349 Kim Woo-in)\n\n");
                                 break;
 
                 }
