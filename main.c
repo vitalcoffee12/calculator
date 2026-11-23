@@ -7,7 +7,7 @@ int main()
         int a;
         int b;
 
-        printf("OSS Assignment 3\n");
+        printf("Supported operations: +, -, *, /, %%\n");
 
         while(1)
         {
