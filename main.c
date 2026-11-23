@@ -6,6 +6,7 @@ int main()
         char c;
         int a;
         int b;
+        int c = 0;
 
         while(1)
         {
