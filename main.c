@@ -6,7 +6,7 @@ int main()
         char c;
         int a;
         int b;
-
+        int oss_flag = 1;
         while(1)
         {
 
