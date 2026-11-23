@@ -3,6 +3,7 @@
 
 int main()
 {
+	printf("202513010 이채연\n");
         char c;
         int a;
         int b;
@@ -47,6 +48,5 @@ int main()
 
                 }
         }
-
         return 0;
 }

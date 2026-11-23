@@ -23,3 +23,4 @@ int mod(int a, int time)
         return a % time;
 }
 
+#define STUDENT_INFO "202513010 이채연"
