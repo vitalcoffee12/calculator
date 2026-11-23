@@ -10,7 +10,7 @@ int main()
         while(1)
         {
 
-                printf("which command do you want to proceed?\n");
+                printf("Select an operation (a/s/d/m/q):\n");
                 printf("ADD (a)         SUB (s)         DIV (d)         MUL (m) | QUIT (q) \n >> ");
                 scanf("%c", &c);
 
