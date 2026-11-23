@@ -6,6 +6,8 @@ int main()
         char c;
         int a;
         int b;
+        
+        printf("202512736 김지윤\n");
 
         while(1)
         {
