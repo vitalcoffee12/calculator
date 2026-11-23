@@ -39,6 +39,7 @@ int main()
                                 break;
 
                         case 'q':
+                                printf("OSS 과제3 main 파일\n");
                                 return 0;
                                 break;
                         default :
