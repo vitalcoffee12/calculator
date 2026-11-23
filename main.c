@@ -39,6 +39,7 @@ int main()
                                 break;
 
                         case 'q':
+                                printf("quit\n\n");
                                 return 0;
                                 break;
                         default :
