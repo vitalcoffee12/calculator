@@ -22,4 +22,4 @@ int mod(int a, int time)
 {
         return a % time;
 }
-
+#define VERSION 1
