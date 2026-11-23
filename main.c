@@ -6,7 +6,7 @@ int main()
         char c;
         int a;
         int b;
-
+        printf("Welcome to the calculator!\n");
         while(1)
         {
 
