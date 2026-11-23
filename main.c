@@ -7,6 +7,8 @@ int main()
         int a;
         int b;
 
+        printf("OSS Assignment 3\n");
+
         while(1)
         {
 
