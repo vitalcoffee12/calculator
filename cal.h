@@ -1,3 +1,4 @@
+// Modified by 202512678 김민성
 int add(int a, int b)
 {
         return a + b;
@@ -22,4 +23,3 @@ int mod(int a, int time)
 {
         return a % time;
 }
-
