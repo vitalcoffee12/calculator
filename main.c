@@ -6,7 +6,8 @@ int main()
         char c;
         int a;
         int b;
-
+        
+        printf("=== Calculator Start ===\n");
         while(1)
         {
 
@@ -39,6 +40,7 @@ int main()
                                 break;
 
                         case 'q':
+                                printf("Quit calculator.\n");
                                 return 0;
                                 break;
                         default :
