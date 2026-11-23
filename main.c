@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include "cal.h"
 
+int global_var=202213187;
+
 int main()
 {
         char c;
