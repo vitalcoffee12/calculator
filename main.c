@@ -47,6 +47,6 @@ int main()
 
                 }
         }
-
+        printf("My name is seungmin");
         return 0;
 }
