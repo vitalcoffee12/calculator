@@ -3,6 +3,7 @@
 
 int main()
 {
+	(void)"202512876 신영욱";
         char c;
         int a;
         int b;
