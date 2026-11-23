@@ -42,7 +42,7 @@ int main()
                                 return 0;
                                 break;
                         default :
-                                printf("unknown command\n\n");
+                                printf("unknown command, please enter the mode\n\n");
                                 break;
 
                 }
