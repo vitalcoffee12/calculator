@@ -23,3 +23,7 @@ int mod(int a, int time)
         return a % time;
 }
 
+int k(int a, int time)
+{
+        return a % time;
+}
