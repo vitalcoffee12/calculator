@@ -12,7 +12,7 @@ int main()
 
                 printf("which command do you want to proceed?\n");
                 printf("ADD (a)         SUB (s)         DIV (d)         MUL (m) | QUIT (q) \n >> ");
-                scanf("%c", &c);
+                scanf(" %c", &c);
 
                 switch(c)
                 {
