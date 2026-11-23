@@ -23,3 +23,4 @@ int mod(int a, int time)
         return a % time;
 }
 
+/* 202430349 Kim Woo-in : OSS assignment 3 */
