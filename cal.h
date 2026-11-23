@@ -23,3 +23,7 @@ int mod(int a, int time)
         return a % time;
 }
 
+int abs_value(int a) 
+{ 
+        return (a < 0) ? -a : a;
+}

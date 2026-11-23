@@ -7,6 +7,8 @@ int main()
         int a;
         int b;
 
+        printf("Supported operations: ADD (a) SUB (s) DIV (d) MUL (m) ABS (v) | QUIT (q)\n >> ");
+
         while(1)
         {
 
