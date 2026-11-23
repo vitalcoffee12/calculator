@@ -30,6 +30,7 @@ int main()
                         case 'd':
                                 printf("insert two operand: ");
                                 scanf("%d %d", &a, &b);
+                                if (b==0) {printf("Cannot divide by zero.\n"); break;}
                                 printf("the answer is : %d\n\n", div(a,b));
                                 break;
                         case 'm':
