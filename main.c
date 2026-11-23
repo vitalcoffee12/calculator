@@ -38,6 +38,12 @@ int main()
                                 printf("the answer is : %d\n\n", mul(a,b));
                                 break;
 
+                        case 'k':
+                                printf("insert two operand: ");
+                                scanf("%d %d", &a, &b);
+                                printf("the answer is : %d\n\n", mod(a,b));
+                                break;
+
                         case 'q':
                                 return 0;
                                 break;
