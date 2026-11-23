@@ -10,7 +10,8 @@ int main()
         while(1)
         {
 
-                printf("which command do you want to proceed?\n");
+                printf("===== Calculator =====\n");
+                printf("Please select a calculator command:\n");
                 printf("ADD (a)         SUB (s)         DIV (d)         MUL (m) | QUIT (q) \n >> ");
                 scanf("%c", &c);
 
